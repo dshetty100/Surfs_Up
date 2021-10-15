@@ -19,11 +19,10 @@ The results from the summary statistics for the months of June and December are 
 
 ## Summary
 - From the analysis of the above data it can be seen that the temperature during the months of June and December remains pretty steady, where the average temperature stays between 71 - 75 degrees. Such a steady temperature would be perfect for the surf and ice cream shop business to be sustainable year-round.
-- 
+- Flask allows you to create Python applications and then share the results of those applications with others via a webpage, making it a powerful tool for data analysis and visualization. We're going to create five routes for our investors: Welcome, Precipitation, Stations, Monthly Temperature, and Statistics.
 
 
 
-- The table below shows employees that are eligible for the mentorship program. There are 1,464 employees who are eligible for mentorship program. With large number of 
-employees due for retirement, there may not be enough retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
+
 
 
