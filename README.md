@@ -13,8 +13,6 @@ The results from the summary statistics for the months of June and December are 
 
 ![Figure1](/Images/Temp_June.PNG)    ![Figure2](/Images/Temp_Dec.PNG)
 
-![Figure2](/Images/Temp_Dec.PNG)
-
 - It is observed that there are total 90,398 employess with various titles who will be retiring,
 - The company will need to fill in seven different titles (Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer, and Manager)
 - There are 29,414 senior engineers, 28,254 senior staffs, 14,222 engineers, 12243 staffs, 4,502 technique leaders, 1,761 assistant engineers, and 2 
@@ -25,9 +23,9 @@ The results from the summary statistics for the months of June and December are 
 ## Summary
 - The table for the number of retiring employees by title from retiring_titles.csv file is shown below. There are seven different roles that needs to be filled in. These are Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer, and Manager
 
-![Figure1](/Images/Temp_June.PNG)
+
 
 - The table below shows employees that are eligible for the mentorship program. There are 1,464 employees who are eligible for mentorship program. With large number of 
 employees due for retirement, there may not be enough retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.
 
-![Figure2](/Images/Temp_Dec.PNG)
+
