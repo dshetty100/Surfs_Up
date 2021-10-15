@@ -18,7 +18,8 @@ The results from the summary statistics for the months of June and December are 
 - The maximum and minimum temperature that were recorded for the month of June were 85 and 64 degrees, respectively, and that for the month of December were 83 and 56 degrees, respectively.
 
 ## Summary
-- The table for the number of retiring employees by title from retiring_titles.csv file is shown below. There are seven different roles that needs to be filled in. These are Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer, and Manager
+- From the analysis of the above data it can be seen that the temperature during the months of June and December remains pretty steady, where the average temperature stays between 71 - 75 degrees. Such a steady temperature would be perfect for the surf and ice cream shop business to be sustainable year-round.
+- 
 
 
 
