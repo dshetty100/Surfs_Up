@@ -13,12 +13,10 @@ The results from the summary statistics for the months of June and December are 
 
 ![Figure1](/Images/Temp_June.PNG)    ![Figure2](/Images/Temp_Dec.PNG)
 
-- It is observed that there are total 90,398 employess with various titles who will be retiring,
-- The company will need to fill in seven different titles (Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer, and Manager)
-- There are 29,414 senior engineers, 28,254 senior staffs, 14,222 engineers, 12243 staffs, 4,502 technique leaders, 1,761 assistant engineers, and 2 
-  managers due for retirement.
-- There are 1,464 employees who are eligible for mentorship program.
-
+- It is observed that there are 1700 weather stations that recorded the June temperature and 1517 weather stations that recorded the December temperature between the years 2010-01-01 and 2017-08-23. 
+- The average temperature recorded for the month of June was 74.9 degrees and for the month of December was 71 degrees.
+- The maximum and minimum temperature recorded in the month of June were 85 and 64 degrees, respectively, and for the month of December were 83 and 56 degrees, respectively.
+-
 
 ## Summary
 - The table for the number of retiring employees by title from retiring_titles.csv file is shown below. There are seven different roles that needs to be filled in. These are Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer, and Manager
