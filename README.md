@@ -9,8 +9,11 @@ The analysis was performed using the Ohahu weather data from 2010 to 2017 that w
 Using Python, Pandas functions and methods, and SQLAlchemy to query SQLite database, the date column of the Measurements table in the hawaii.sqlite database was filtered to retrieve all the temperatures for the months of June and December. A summary statistics was then generated to draw conclusions from the data.
 
 ## Results
-The results of the anlysis can be found in the files, retiring_titles.csv and mentorship_eligibilty.csv, under Data 
-folder in  http://github.com/dshetty100/surfs_up 
+The results from the summary statistics for the months of June and December are shown below.
+
+![Figure1](/Images/Temp_June.PNG)
+
+![Figure2](/Images/Temp_Dec.PNG)
 
 - It is observed that there are total 90,398 employess with various titles who will be retiring,
 - The company will need to fill in seven different titles (Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer, and Manager)
