@@ -2,11 +2,9 @@
 
 
 ## Overview of the analysis
-The purpose of this analysis is to helps investor W. Avy, who is interested in opening a surf and ice cream shop business in Oahu, Hawaii, determine whether such a business is sustainable year-round.
+The purpose of this analysis is to helps investor W. Avy determine whether opening a surf and ice cream shop business in Oahu, Hawaii, would be successful. The focus of the analysis is on Oahu weather data to determine the temperature trend during the months of June and December for the surf and ice cream shop business to be sustainable year-round.
 
-In particular, he is interested in the analysis of weather data and see how the temperature trend looks like in Oahu during the months of June and December for the surf and ice cream shop business to be successful.
-
-The analysis was performed using the weather data from 2010 to 2017 for Oahu and stored in a SQLite database, hawaii.sqlite. The SQLite file and the query file for the data analysis, SurfsUp_Challenge.ipynb, can be found at http://github.com/dshetty100/surfs_up. 
+The analysis was performed using the Ohahu weather data from 2010 to 2017 that was stored in a SQLite database, hawaii.sqlite. The SQLite databas file and the code for the data analysis, SurfsUp_Challenge.ipynb, can be found at http://github.com/dshetty100/surfs_up. 
 
 Using Python, Pandas functions and methods, and SQLAlchemy to query SQLite database, the date column of the Measurements table in the hawaii.sqlite database was filtered to retrieve all the temperatures for the months of June and December. A summary statistics was then generated to draw conclusions from the data.
 
