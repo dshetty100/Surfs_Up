@@ -19,7 +19,10 @@ The results from the summary statistics for the months of June and December are 
 
 ## Summary
 - From the analysis of the above data it can be seen that the temperature during the months of June and December remains pretty steady, where the average temperature stays between 71 - 75 degrees. Such a steady temperature would be perfect for the surf and ice cream shop business to be sustainable year-round.
-- Flask allows you to create Python applications and then share the results of those applications with others via a webpage, making it a powerful tool for data analysis and visualization. We're going to create five routes for our investors: Welcome, Precipitation, Stations, Monthly Temperature, and Statistics.
+- It would also be useful to include information on precipitation for the months of June and December. This can also be an important factor in deciding the long term succes pf the business.
+- Finally, it would be useful to create a weather app using Flask with five different routes such as, Welcome, Precipitation, Stations, Monthly Temperature, and Statistics,
+and share them with others via a webpage. This would provide a powerful tool for data visualization. 
+
 
 
 
