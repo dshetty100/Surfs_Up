@@ -11,7 +11,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy to query SQLite datab
 ## Results
 The results from the summary statistics for the months of June and December are shown below.
 
-![Figure1](/Images/Temp_June.PNG)
+![Figure1](/Images/Temp_June.PNG)    ![Figure2](/Images/Temp_Dec.PNG)
 
 ![Figure2](/Images/Temp_Dec.PNG)
 
