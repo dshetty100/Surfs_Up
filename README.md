@@ -2,18 +2,13 @@
 
 
 ## Overview of the analysis
-The purpose of this analysis is to helps prepare Bobby’s manager for the “silver tsunami” as many current employees at Pewlett-Hackard reach retirement age.
+The purpose of this analysis is to helps investor W. Avy, who is interested in opening a surf and ice cream shop business in Oahu, Hawaii, determine whether such a business is sustainable year-round.
 
-The goal therefore is:
-1. To determine the number of retiring employees with their title by creating a table that holds the titles of current employees 
-who were born between January 1, 1952, and December 31, 1955.
+In particular, he is interested in the analysis of weather data and see how the temperature trend looks like in Oahu during the months of June and December for the surf and ice cream shop business to be successful.
 
-2. To identify employees who are eligible to participate in a mentorship program by creating a mentorship-eligibility table that holds 
-all the current employees who were born between January 1, 1965, and December 31, 1965.
+The analysis was performed using the weather data from 2010 to 2017 for Oahu and stored in a SQLite database, hawaii.sqlite. The SQLite file and the query file for the data analysis, SurfsUp_Challenge.ipynb, can be found at http://github.com/dshetty100/surfs_up. 
 
-The analysis was performed using six CSV files that contained all the employee data at Pewlett-Hackard. 
-The CSV files and the SQL queries for the analysis can be found at http://github.com/dshetty100/surfs_up 
-under the Data and Queries folders, respectively.
+Using Python, Pandas functions and methods, and SQLAlchemy to query SQLite database, the date column of the Measurements table in the hawaii.sqlite database was filtered to retrieve all the temperatures for the months of June and December. A summary statistics was then generated to draw conclusions from the data.
 
 ## Results
 The results of the anlysis can be found in the files, retiring_titles.csv and mentorship_eligibilty.csv, under Data 
